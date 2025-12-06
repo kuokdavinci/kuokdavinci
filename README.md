@@ -7,6 +7,6 @@
 
 ### Tech Stack
 - **Languages:** C, C++, Java, Dart, SQL  
-- **Frameworks:** Spring Boot, Spring Security, Flutter (for occasional full-stack)  
+- **Frameworks:** Spring Boot, Spring Security, Flutter 
 - **Databases:** PostgreSQL, Firebase  
 - **Tools & Others:** Git, Postman, Android Studio, IntelliJ, Docker  
