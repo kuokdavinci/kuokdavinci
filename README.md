@@ -11,6 +11,6 @@
 - **Databases:** PostgreSQL, Firebase  
 - **Tools & Others:** Git, Postman, Android Studio, IntelliJ, Docker  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuokdavinci&show_icons=true&count_private=true&title_color=ffd1dc&text_color=f472b6&icon_color=6366f1&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuokdavinci&show_icons=true&count_private=true&title_color=ffd1dc&text_color=ffd1dc&icon_color=ffd1dc&ring_color=89b4fa&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuokdavinci&layout=compact&langs_count=5&hide=HTML,CSS,Jupyter%20Notebook&title_color=ffd1dc&text_color=f472b6&icon_color=6366f1&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuokdavinci&layout=compact&langs_count=5&hide=HTML,CSS,Jupyter%20Notebook&title_color=ffd1dc&text_color=ffd1dc&bg_color=0d1117&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/)
