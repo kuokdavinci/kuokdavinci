@@ -32,11 +32,11 @@ I am a software engineer focused on building high-performance backend systems an
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kuokdavinci&show_icons=true&count_private=true&title_color=ffd1dc&text_color=ffd1dc&icon_color=ffd1dc&ring_color=89b4fa&bg_color=0d1117&border_color=ffd1dc" alt="GitHub Stats" />
 </div>
 <br>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuokdavinci&layout=compact&langs_count=5&hide=HTML,CSS,Jupyter%20Notebook&title_color=ffd1dc&text_color=ffd1dc&bg_color=0d1117&border_color=ffd1dc" alt="Top Langs" />
 </div>
 
