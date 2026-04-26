@@ -50,15 +50,15 @@ I am a software engineer focused on building high-performance backend systems an
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid black; border-collapse: collapse;">
   <tr>
-    <td width="60%" valign="middle" align="left">
+    <td width="60%" valign="middle" align="left" style="border: 1px solid black;">
       <img src="https://github-readme-stats.vercel.app/api?username=kuokdavinci&show_icons=true&count_private=true&title_color=ffd1dc&text_color=ffd1dc&icon_color=ffd1dc&ring_color=89b4fa&bg_color=0d1117&border_color=ffd1dc" width="100%" />
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuokdavinci&layout=compact&langs_count=5&hide=HTML,CSS,Jupyter%20Notebook&title_color=ffd1dc&text_color=ffd1dc&bg_color=0d1117&border_color=ffd1dc" width="100%" />
     </td>
-    <td width="40%" valign="middle" align="right">
-      <img src="./assets/image.png" width="350" />
+    <td width="40%" valign="middle" align="right" style="border: 1px solid black;">
+      <img src="./assets/image.png" width="350" style="border-radius: 20px;" />
     </td>
   </tr>
 </table>
