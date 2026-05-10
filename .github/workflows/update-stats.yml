@@ -2,8 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Chạy tự động lúc 3h sáng hàng ngày
-  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công trong tab Actions
+    - cron: "0 3 * * *" 
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -13,19 +13,19 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: anuraghazra/github-readme-stats-action@v2
+        # Sửa lại từ anuraghazra thành readme-tools
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # Đã thêm tham số locale=vi và gradient bg_color
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&title_color=ffd1dc&text_color=ffd1dc&icon_color=ffd1dc&ring_color=89b4fa&bg_color=45,0d1117,1a1a2e&border_color=ffd1dc&locale=vi
           path: profile-summary/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top langs card
-        uses: anuraghazra/github-readme-stats-action@v2
+        # Sửa lại từ anuraghazra thành readme-tools
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          # Ẩn HTML, CSS để tập trung vào Java/Python và các ngôn ngữ backend
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=5&hide=HTML,CSS,Jupyter%20Notebook&title_color=ffd1dc&text_color=ffd1dc&bg_color=45,0d1117,1a1a2e&border_color=ffd1dc&locale=vi
           path: profile-summary/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
