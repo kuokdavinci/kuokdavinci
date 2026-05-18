@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lê Trung Anh Quốc
 
-**Backend & AI Systems Engineer**
+**Backend & AI Engineer**
 
 I am a software engineer focused on building high-performance backend systems and scalable AI infrastructure. 
 
