@@ -29,7 +29,6 @@ I focus on building reliable backend systems, scalable data pipelines, and data 
   <img src="https://img.shields.io/badge/Spring_Security-f472b6?style=flat-square&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-89b4fa?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-f472b6?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-89b4fa?style=flat-square&logo=apache&logoColor=white" />
 </p>
 
 <p align="left">
@@ -37,7 +36,6 @@ I focus on building reliable backend systems, scalable data pipelines, and data 
   <img src="https://img.shields.io/badge/ETL%2FELT-f472b6?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Pipelines-89b4fa?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-f472b6?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-89b4fa?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-f472b6?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-89b4fa?style=flat-square&logo=firebase&logoColor=white" />
 </p>
